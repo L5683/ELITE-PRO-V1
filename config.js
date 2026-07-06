@@ -21,7 +21,6 @@ global.autoTyping = process.env.AUTO_TYPING === 'true';
 global.autorecordtype = process.env.AUTO_RECORD_TYPE === 'true';
 global.autoread = process.env.AUTO_READ === 'true';
 global.autobio = process.env.AUTO_BIO !== 'false';
-global.anti92 = process.env.ANTI_92 === 'true';
 global.autoviewstatus = process.env.AUTO_VIEW_STATUS !== 'false';
 global.welcome = process.env.WELCOME !== 'false';
 global.autoreact = process.env.AUTO_REACT === 'true';
